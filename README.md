@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://i.ibb.co/R4Zkw9hL/White-Cream-Minimalist-Elegant-Virtual-Assistant-Facebook-Cover-Photo.png](https://media.licdn.com/dms/image/v2/D5616AQE8Zo_65sC6yQ/profile-displaybackgroundimage-shrink_350_1400/B56ZrbcUOZLgAc-/0/1764618225487?e=1766620800&v=beta&t=s5JWKrUW-YJpPnP88Vc13pbIPjHV8E9N-6SD_XkwN3Y)" alt="Profile Banner" width="800"/> </p>
+<p align="left"> <img src="https://i.ibb.co.com/dsFKxzHJ/Beige-Black-Geometric-Technology-Linked-In-Banner.png" alt="Profile Banner" width="800"/> </p>
 
 <h1 align="center">Hi 👋, I'm Marium Fija</h1>
 <h3 align="center">I’m a passionate developer with a strong foundation in JavaScript, React, and the MERN stack. I enjoy building modern, responsive web applications and constantly strive to improve my skills through learning and collaboration.</h3>
